@@ -1,2 +1,2 @@
 # Linguagem-C
-trabalho 2º trimestre
+trabalho 2º trimestre mobile
